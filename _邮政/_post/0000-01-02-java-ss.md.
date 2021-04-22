@@ -1,1 +1,7 @@
----布局:幻灯片标题:"欢迎来到我们的第二张幻灯片！"---你的文字用左箭头往回走！
+---
+layout: slide
+title:"welcome to our second slide"
+---
+MY Text ya know
+use the left arrow to go back!
+did you ever a gondola?!
